@@ -42,3 +42,66 @@ button:focus,
 input:focus {
   border: 0;
 }
+
+/* HEADER */
+
+.header_container {
+  display: flex;
+  height: 35rem;
+  justify-content: center;
+  align-items: center;
+  gap: 14.6875rem;
+  background: #F8F8FF;
+}
+
+.header_banner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  gap: 14.6875rem;
+  height: 76rem;
+  width: 28.8rem;
+}
+
+.header_group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2rem;
+}
+
+.header_group h1 {
+  color: #121214;
+  font-family:   Roboto;
+  font-size: 2.5rem;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 3rem;
+}
+
+.header_group span {
+  color: #846AFF;
+  font-family:   Roboto;
+  font-size: 2.5rem;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 3rem;
+}
+
+.header_group p {
+  color: #121214;
+  font-family: Roboto;
+  font-size: 1.5rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%; /* 2.25rem */
+  width: 34.375rem;
+}
+
+.header_image {
+  width: 25rem;
+  height: 28.75rem;
+}
+
+/* MAIN */

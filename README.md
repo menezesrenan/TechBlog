@@ -1,4 +1,4 @@
-# Desafio Codelândia - 02=3
+# Desafio Codelândia - 03
 
 ![image](/assets/images/TechBlog%20(Desktop).png)
 O dasafio consiste em criar a UI no frontend a partir do design oferecido no Figma
